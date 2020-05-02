@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bookstore -->
+<Bookstore>
+	<book category="cooking">
+		<titile lang="en">
+			Everyday Italian
+		</titile>
+		<author>
+			Giada De Laurentiis
+		</author>
+		<year>
+			2005
+		</year>
+		<price>
+			30.00
+		</price>
+	</book>
+	<book category="children">
+		<titile lang="en">
+			Harry Potter
+		</titile>
+		<author>
+			J K.Rowling
+		</author>
+		<year>
+			2005
+		</year>
+		<price>
+			29.99
+		</price>
+	</book>
+	<book category="web">
+		<titile lang="en">
+			XQuety Kick Start
+		</titile>
+		<author>
+			James McGovern
+		</author>
+		<author>
+			Per Bothner
+		</author>
+		<author>
+			Kurt Linn
+		</author>
+		<author>
+			Vaidyanathan Nagarajan
+		</author>
+		<year>
+			2003
+		</year>
+		<price>
+			49.99
+		</price>
+	</book>
+	<book category="web" cover="paperback">
+		<titile lang="en">
+			Learning XML
+		</titile>
+		<author>
+			Erik T.Ray
+		</author>
+		<year>
+			2003
+		</year>
+		<price>
+			39.95
+		</price>
+	</book>
+</Bookstore>

@@ -1,0 +1,7 @@
+<!DOCTYPE student SYSTEM "studatabase.dtd">
+<Student>
+<Name>James</Name>
+<Dob>26th September, 1983</Dob>
+<BloodGroup>A positive</BloodGroup>
+<RollNumber>17</RollNumber>
+</Student>

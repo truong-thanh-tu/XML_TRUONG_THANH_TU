@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<element name="note">
+		<complexType>
+			<sequence>
+				<element name="to" type="xs:string" />
+				<element name="from" type="xs:string" />
+				<element name="heading" type="xs:string" />
+				<element name="body" type="xs:string" />
+			</sequence>
+		</complexType>
+	</element>
+</schema>

@@ -1,0 +1,8 @@
+<Catalog xmlns="http://www.aptechworldwide.com">
+<BookList>
+<Title type = "Thriller">African Safari</Title>
+<Price>$12</Price>
+<ISBN>23345</ISBN>
+</Booklist>
+</Catalog>
+<!-- Loi o booklist -->
