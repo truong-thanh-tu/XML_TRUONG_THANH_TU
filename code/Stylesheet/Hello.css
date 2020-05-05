@@ -1,0 +1,32 @@
+xsampdoc {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 30%;
+  right: 40%;
+  width: 400px;
+  height: 150px;
+  font-family:Helvetica;
+  background-color:#a40001;
+  
+}
+answer[ class= ans] {
+  display: flex;
+  flex-direction: column
+}
+greeting{
+ font-size: 48px;
+ margin: 15px 0;
+ font-weight:600;
+ color:#fff;
+}
+
+extensions{
+ font-size: 35px;
+ color:#fff;
+}
+question{
+font-size: 30px;
+ color:#fff;
+margin-top:15px 0;
+}

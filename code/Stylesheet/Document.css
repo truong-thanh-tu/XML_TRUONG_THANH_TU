@@ -1,0 +1,53 @@
+document{
+ background-color:#855FA8;
+ color:#ffffff;
+}
+title{
+  display: block;
+  font-size: 36pt;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+philosopher {
+  display: block;
+  font-size: 16pt;
+  text-align: center;
+ }
+book {
+  display: block;
+  font-size: 28pt;
+  text-align: center;
+  font-style: italic;
+
+ }
+box{
+  width: 60%;
+  margin:auto;
+  display: flex;
+}
+paragraph {
+  display: block;
+  margin:30px;
+  padding:20px;
+ }
+.standout {
+  color: #ffffff;
+  background-color: #27BDCE; 
+}
+ [class=standout] {
+  color: #ffffff;
+  background-color: #27BDCE;
+ }
+
+ paragraph[class=first] {
+  text-indent: 40;
+  font-size:28px
+  margin-top: 30;
+  background-color: #FED42D;
+}
+paragraph[class=last] {
+  text-indent: 40;
+  margin-top: 30;
+  background-color: #FED42D;
+}
