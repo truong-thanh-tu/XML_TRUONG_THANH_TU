@@ -1,0 +1,15 @@
+XSLT 
+- Trước tiên chúng ta tìm hiểu về XSL. XSL là viết tắc của Extensible Stylessheet Language. Nó là ngôn ngữ tạo kiểu cho xml giống với css là ngôn ngữ tạo kiểu HTML.
+-XSLT là viết tắc của XSL transform. Nó được sự để chuyển đổi các tài liệu XML thành các định dạng khác
+XSL 
+- Trong các tài liệu HTML, các thể được xác định trước những trong các tài liệu XML, các thẻ không được xác định trước . W3C đã phát triene SXL để  hiểu được và định kiểu một tài liệu XML, có thể hoạt động nhưng ngôn nhữ  ngôn ngữ
+biểu định  kiểu dựa trên XML.
+- Tài liệu XSL chỉ định cách trình duyệt hiện thị tài liệu XML
+CÁC THÀNH PHẦN CHÍNH CỦA TÀI LIỆU XSL
+- XSLT Đấy là ngôn ngữ để chuyển đổi các tài liệu XML thành nhiểu loại tài liệu khác nhau.
+- XPATH Đây là ngôn ngữ để điều hướng trong các tài liệu XML
+- XQUERY Đây là ngôn ngữ để truy vân các tài liệu XML
+-XSL-FO: Đây là ngôn ngữ để định dạng tài liệu XML.
+CÁCH THỨC HOẠT ĐỘNG CỦA XSLT
+Biểu định kiểu XSLT được viết theo định dạng XML. Nó được sử dụng để xác định các quy tắc chuyển đổi sẽ được áp dụng trên tài liều XML địch. Bộ xử lý XSLT lấy biểu định kiểu XSLT và áp dụng các quy tắc chuyển đổi trền tài liệu XML dichdidh
+địch và sao đó nó tạo ra một tài liệu được dạng dưới dạng XML HTML hoặc định dạng dạng vằn bản. Cuối cùng, nó được dụng bởi trình đình định dạng XSLT để tạo đâu ra thực tế và được hiển thị trên người dùng cuối.
