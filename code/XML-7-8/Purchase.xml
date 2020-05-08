@@ -1,0 +1,47 @@
+<?xml version ='1.0'?>
+<?xml-stylesheet type ='text/xsl' href ='Purchase.xsl'?>
+<PurchaseOrder>
+<poNumber>AP-34564</poNumber>
+<poDate>18-Feb-2007</poDate>
+<seller>David Enterprises.</seller>
+<buyer>TuTT Inc.</buyer>
+<deLiveDate>30-Feb-2020</deLiveDate>
+<shipTo>
+<name>CodeLean Inc.</name>
+<street>B-602, Ne Street</street>
+<cityZip>Laville, 5843</cityZip>
+<country>USA</country>
+</shipTo>
+<billTo>
+<name>CodeLean Inc.</name>
+<street>B-602, Ne Street</street>
+<cityZip>Laville, 5843</cityZip>
+<country>USA</country>
+</billTo>
+<products>
+<product>
+<name>13'Monitor</name>
+<quantity>10</quantity>
+<price>$150.00</price>
+</product>
+<product>
+<name>13'Monitor</name>
+<quantity>10</quantity>
+<price>$150.00</price>
+</product>
+<product>
+<name>13'Monitor</name>
+<quantity>10</quantity>
+<price>$150.00</price>
+</product>
+<product>
+<name>13'Monitor</name>
+<quantity>10</quantity>
+<price>$150.00</price>
+</product>
+</products>
+<inStructions>
+<inStruction>The VAT number and the invoice should be split between the net value of goods and services.</inStruction>
+<inStruction>The VAT number and the invoice should be split between the net value of goods and services.</inStruction>
+</inStructions>
+</PurchaseOrder>
